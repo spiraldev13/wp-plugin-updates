@@ -1,0 +1,14 @@
+{
+  "name": "Popup Spiral",
+  "slug": "popup-spiral",
+  "plugin": "popup-spiral/popup-spiral.php",
+  "version": "1.13.2",
+  "tag": "v1.13.2",
+  "download_url": "https://raw.githubusercontent.com/spiraldev13/wp-plugin-updates/main/popup-spiral/popup-spiral.zip",
+  "details_url": "https://github.com/spiraldev13/popup-spiral",
+  "tested": "6.7",
+  "requires": "6.0",
+  "requires_php": "7.4",
+  "last_updated": "2026-07-17T00:05:28Z",
+  "sha256": "8187132aaccd18f1edd7869b477d5741906e43fd9ee0ecd02cd5011421467998"
+}

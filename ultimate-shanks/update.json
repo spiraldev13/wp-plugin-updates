@@ -1,0 +1,14 @@
+{
+  "name": "Ultimate Shanks",
+  "slug": "ultimate-shanks",
+  "plugin": "ultimate-shanks/ultimate-shanks.php",
+  "version": "1.17.0",
+  "tag": "v1.17.0",
+  "download_url": "https://raw.githubusercontent.com/spiraldev13/wp-plugin-updates/main/ultimate-shanks/ultimate-shanks.zip",
+  "details_url": "https://github.com/spiraldev13/ultimate-shanks",
+  "tested": "6.7",
+  "requires": "6.0",
+  "requires_php": "7.4",
+  "last_updated": "2026-08-16T15:32:04Z",
+  "sha256": "cc6bb90eafa85da6812468da0bc883e5778e51e93d8f3282501c0e33ddb4ab7e"
+}

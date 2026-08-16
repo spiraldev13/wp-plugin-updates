@@ -1,0 +1,14 @@
+{
+  "name": "Canard",
+  "slug": "canard",
+  "theme": "canard",
+  "version": "1.0.2",
+  "tag": "v1.0.2",
+  "download_url": "https://raw.githubusercontent.com/spiraldev13/wp-plugin-updates/main/canard/canard.zip",
+  "details_url": "https://github.com/spiraldev13/canard",
+  "tested": "6.7",
+  "requires": "6.0",
+  "requires_php": "7.4",
+  "last_updated": "2026-07-03T16:37:57Z",
+  "sha256": "e2823a72ea36d5972c3df9ed0f4ed77776482fb6aacba1bd48780b6894abc265"
+}
