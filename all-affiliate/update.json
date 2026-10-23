@@ -1,0 +1,14 @@
+{
+  "name": "All Affiliate",
+  "slug": "all-affiliate",
+  "plugin": "all-affiliate/all-affiliate.php",
+  "version": "1.0.1",
+  "tag": "v1.0.1",
+  "download_url": "https://raw.githubusercontent.com/spiraldev13/wp-plugin-updates/main/all-affiliate/all-affiliate.zip",
+  "details_url": "https://github.com/spiraldev13/all-affiliate",
+  "tested": "6.7",
+  "requires": "6.0",
+  "requires_php": "7.4",
+  "last_updated": "2026-04-24T13:43:57Z",
+  "sha256": "5316796a57a9fd057adfba605a6e48527fe5eab857da94c7c181b121a8244a5d"
+}

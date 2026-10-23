@@ -1,0 +1,14 @@
+{
+  "name": "spiralbase",
+  "slug": "spiralbase",
+  "theme": "spiralbase",
+  "version": "1.30.1",
+  "tag": "v1.30.1",
+  "download_url": "https://raw.githubusercontent.com/spiraldev13/wp-plugin-updates/main/spiralbase/spiralbase.zip",
+  "details_url": "https://github.com/spiraldev13/wordpress-theme-spiralbase",
+  "tested": "7.0",
+  "requires": "6.8",
+  "requires_php": "8.3",
+  "last_updated": "2026-07-31T08:22:02Z",
+  "sha256": "68092d4eeba60650bf04e4e5b35da63a21fd907a9d7df872ce7eabaf17092eb2"
+}

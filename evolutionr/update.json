@@ -1,0 +1,14 @@
+{
+  "name": "Evolutionr",
+  "slug": "evolutionr",
+  "theme": "evolutionr",
+  "version": "1.3.16",
+  "tag": "v1.3.16",
+  "download_url": "https://raw.githubusercontent.com/spiraldev13/wp-plugin-updates/main/evolutionr/evolutionr.zip",
+  "details_url": "https://github.com/spiraldev13/evolutionr",
+  "tested": "6.7",
+  "requires": "6.0",
+  "requires_php": "7.4",
+  "last_updated": "2026-07-01T16:02:34Z",
+  "sha256": "77ca103d50e8089e2cf5c8d01f0e1a7e8147347b87f11c2e893f070b05af5b96"
+}
